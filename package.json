@@ -1,0 +1,20 @@
+{
+  "name": "spotify-sonos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "play.js",
+  "dependencies": {
+    "sonos": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sonos-play": "./play.js",
+    "sonos-stop": "./stop.js",
+    "sonos-status": "./status.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
