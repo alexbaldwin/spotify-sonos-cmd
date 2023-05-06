@@ -4,7 +4,7 @@
   "description": "",
   "main": "play.js",
   "dependencies": {
-    "sonos": "^1.4.0"
+    "sonos": "^1.14.1"
   },
   "devDependencies": {},
   "scripts": {
